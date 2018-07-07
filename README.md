@@ -22,4 +22,6 @@
 * 2018年5月，过了2科<br>
 ![Image text](https://github.com/lixing20080830/soft-examination-learning-notes/raw/master/images-folder/成绩3.png)<br>
 
+### 未完待续，加油！！！
+
 
