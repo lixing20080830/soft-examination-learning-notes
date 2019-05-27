@@ -3,6 +3,7 @@
 ### 2017年上半年开始考，考了3次，记录一下<br>
 
 ### 1 考试购买书籍，如下图所示：<br>
+2016年7月2日第一次购书
 ![Image text](https://github.com/lixing20080830/soft-examination-learning-notes/raw/master/images-folder/参考书1.png)<br>
 ![Image text](https://github.com/lixing20080830/soft-examination-learning-notes/raw/master/images-folder/参考书2.png)<br>
 
@@ -29,3 +30,4 @@
 
 
 ### 2019年5月23日，报名了，要不要考呢
+ 2019年5月25日放弃了PMP的第五次课程参加考试，今天是2019年5月27日，等待结果
